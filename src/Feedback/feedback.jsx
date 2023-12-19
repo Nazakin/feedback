@@ -3,7 +3,7 @@ import Statistics from './StatsComp/Statictics';
 import FeedbackOptions from './StatsComp/FeedbackOptions';
 import Section from './StatsComp/Section';
 import Notification from './StatsComp/Notification';
-
+//
 export class FeedBack extends React.Component {
   state = {
     good: 0,
